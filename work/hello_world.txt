@@ -3,3 +3,6 @@ https://chinagdg.org/
 
 生成带阴影的.9图片
 http://inloop.github.io/shadow4android/
+
+国外高质量blog平台
+https://medium.com
